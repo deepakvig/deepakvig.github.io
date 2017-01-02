@@ -1,0 +1,233 @@
+{
+    "basics": {
+        "name": "Deepak Vig",
+        "label": "Software Engineer",
+        "picture": "https://s.gravatar.com/avatar/f7d05df1dfae2262f0afeabc96c67a78?s=80",
+        "email": "deepakvig@gmail.com",
+        "phone": "+919949909440",
+        "website": "https://deepakvig.github.io",
+        "summary": "Conscientious, results-driven, articulate and analytical software engineer; primarily focusing on frontend and backend development. Strong in software design and agile team management.\nExcellent written and verbal communication skills. Interested in challenging technical roles related to development of web applications.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Hyderabad",
+            "countryCode": "India",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Phone",
+                "username": "",
+                "url": "skype:+919949909440"
+            },
+            {
+                "network": "Email",
+                "username": "deepakvig@gmail.com",
+                "url": "mailto:deepakvig@gmail.com"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "deepakvig",
+                "url": "https://www.linkedin.com/in/deepakvig"
+            },
+            {
+                "network": "GitHub",
+                "username": "deepakvig",
+                "url": "https://github.com/deepakvig"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Freelancer",
+            "position": "Ruby on Rails/Javascript/DevOps Developer",
+            "website": "",
+            "startDate": "2015-01-01",
+            "endDate": "Present",
+            "summary": "Hyderabad, India",
+            "highlights": [
+                "Involved in end-to-end development of a new product from the ground up, working in Ruby on Rails and React.js frontend and RESTful API, with MySQL database systems.",
+                "Engineered the in-use worker environment to interface with various SOAP and RESTful logistics courier APIs.",
+                "Introduced continuous integration and code coverage tools with Travis, and created custom Docker containers to speed up testing execution.",
+                "Was responsible for development scheduling and product delivery."
+            ]
+        },
+        {
+            "company": "Crypsis Technologies",
+            "position": "Ruby on Rails Developer",
+            "website": "http://devathon.com/",
+            "startDate": "2011-01-01",
+            "endDate": "2012-12-31",
+            "summary": "Hyderabad, India",
+            "highlights": [
+                "Work on various small to large scale websites using Ruby on Rails and jQuery.",
+                "Was handling small team of developer for various projects."
+            ]
+        },
+        {
+            "company": "Verizon Data Services India",
+            "position": "Software Developer",
+            "website": "",
+            "startDate": "2009-08-01",
+            "endDate": "2010-10-31",
+            "summary": "Hyderabad, India",
+            "highlights": [
+                "Work on ESAP GUI.",
+                "Enabling Fancy features over the Telecom services."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Lions Clubs International",
+            "position": "Student Organizer and Helper",
+            "website": "",
+            "startDate": "2009-02-01",
+            "endDate": "2009-05-01",
+            "summary": "",
+            "highlights": [
+                "Participated in this community service initiative that allowed students to plan and execute our own service: Bring Moxi to the Society.",
+                "In the event, we prepared computers and helped kindergartners to create their very own Moxi drawings using a stylus.",
+                "These drawings were then printed onto customized e-cards which could be sent to parents and loved ones."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "International Institute of Information Technology - Hyderabad",
+            "area": "BTech. in Computer Science",
+            "studyType": "Masters",
+            "startDate": "2005-07-01",
+            "endDate": "2009-05-31",
+            "gpa": "Distinction",
+            "summary": "IIIT-Hyderabad",
+            "courses": [
+                "Web Technologies",
+                "Algorithms",
+                "Databases",
+                "AI"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "NIRT:Web:Ruby on Rails, jQuery, Backbone.js, Oracle",
+            "publisher": "deepakvig",
+            "releaseDate": "2016-10-01",
+            "website": "https://nirt.novartis.com",
+            "summary": "NIRT is an internal tool for Novartis for doing clinical trials."
+        },
+        {
+            "name": "Bookish:Web:Ruby on Rails, jQuery, Backbone.js, PostgreSQL, MongoDB",
+            "publisher": "deepakvig",
+            "releaseDate": "2010-12-01",
+            "website": "https://bookish.com",
+            "summary": "Bookish aims to provide readers with a personalized experience connecting them with their favorite authors and books through original editorial features, unique tools, and more."
+        },
+        {
+            "name": "TeePublic:Web:Ruby on Rails, JavaScript, jQuery, PostgreSQL",
+            "publisher": "deepakvig",
+            "releaseDate": "2013-12-01",
+            "website": "https://teepublic.com",
+            "summary": "A place where a person can discover, support and promote t-shirt designs created by a passionate community of artists. Artist can upload his designs and will get paid based on the number of shirts sold for that design. Each shirt has be funded before it can be shipped. So people can prompt the designs by sharing it on facebook."
+        },
+        {
+            "name": "GradSchoolMatch:Web:AngularJS, jQuery, Ruby on Rails, PostgreSQL",
+            "publisher": "deepakvig",
+            "releaseDate": "2010-12-01",
+            "website": "https://gradschoolmatch.com",
+            "summary": "Helps prospective graduate students and graduate programs to thoroughly evaluate, search for and communicate based upon each other's attributes. I have headed this project right from the beginning to the deployment."
+        },
+        {
+            "name": "AuditionU:Web:JavaScript, jQuery, Ruby on Rails, MySQL",
+            "publisher": "deepakvig",
+            "releaseDate": "2010-12-01",
+            "website": "https://auditionu.com",
+            "summary": "AuditionU connects High School Musicians with Students. AuditionU is 100% free for all Students! ... Target Universities to ensure they see your Profile and. Auditions."
+        }
+    ],
+    "skills": [
+        {
+          "name": "Ruby on Rails",
+          "level": "85",
+          "keywords": [
+              "programming",
+              "rails"
+          ]
+        },
+        {
+            "name": "Ruby",
+            "level": "80",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "React.js",
+            "level": "80",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "Backbone.js",
+            "level": "80",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "AngularJS",
+            "level": "75",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "70",
+            "keywords": [
+                "database",
+                "sql"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "70",
+            "keywords": [
+                "database",
+                "nosql"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "60",
+            "keywords": [
+                "database",
+                "sql"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "100"
+        },
+        {
+            "name": "Hindi",
+            "level": "90"
+        },
+        {
+            "name": "Punjabi",
+            "level": "90"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cosmology",
+            "keywords": []
+        }
+    ],
+    "references": [
+    ]
+}

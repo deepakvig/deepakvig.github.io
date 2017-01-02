@@ -1,0 +1,8 @@
+# Directories
+coverage
+node_modules
+temp
+
+# Files
+npm-debug.log
+public/index.html
