@@ -39,10 +39,10 @@
     },
     "work": [
         {
-            "company": "Freelancer",
+            "company": "Codecrux Web Technologies Pvt Ltd",
             "position": "Ruby on Rails/Javascript/DevOps Developer",
             "website": "",
-            "startDate": "2015-01-01",
+            "startDate": "2014-01-01",
             "endDate": "Present",
             "summary": "Hyderabad, India",
             "highlights": [
@@ -57,7 +57,7 @@
             "position": "Ruby on Rails Developer",
             "website": "http://devathon.com/",
             "startDate": "2011-01-01",
-            "endDate": "2012-12-31",
+            "endDate": "2013-12-31",
             "summary": "Hyderabad, India",
             "highlights": [
                 "Work on various small to large scale websites using Ruby on Rails and jQuery.",
@@ -158,6 +158,20 @@
         {
             "name": "Ruby",
             "level": "80",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "60",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "NodeJS",
+            "level": "70",
             "keywords": [
                 "programming"
             ]
