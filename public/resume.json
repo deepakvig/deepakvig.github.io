@@ -10,8 +10,8 @@
         "location": {
             "address": "",
             "postalCode": "",
-            "city": "Hyderabad",
-            "countryCode": "India",
+            "city": "Berlin",
+            "countryCode": "Germany",
             "region": ""
         },
         "profiles": [
@@ -38,6 +38,18 @@
         ]
     },
     "work": [
+        {
+            "company": "Ad2Games",
+            "position": "Ruby on Rails",
+            "website": "",
+            "startDate": "2017-10-01",
+            "endDate": "Present",
+            "summary": "Hyderabad, India",
+            "highlights": [
+              "Involved in end-to-end development of a new product from the ground up, working in Ruby on Rails.",
+              "Is responsible for development scheduling and product delivery."
+            ]
+        },
         {
             "company": "Codecrux Web Technologies Pvt Ltd",
             "position": "Ruby on Rails/Javascript/DevOps Developer",
