@@ -39,18 +39,6 @@
     },
     "work": [
         {
-            "company": "Ad2Games",
-            "position": "Ruby on Rails",
-            "website": "",
-            "startDate": "2017-10-01",
-            "endDate": "Present",
-            "summary": "Berlin, Germany",
-            "highlights": [
-              "Involved in end-to-end development of a new product from the ground up, working in Ruby on Rails.",
-              "Is responsible for development scheduling and product delivery."
-            ]
-        },
-        {
             "company": "Codecrux Web Technologies Pvt Ltd",
             "position": "Ruby on Rails/Javascript/DevOps Developer",
             "website": "",
@@ -62,30 +50,6 @@
                 "Engineered the in-use worker environment to interface with various SOAP and RESTful logistics courier APIs.",
                 "Introduced continuous integration and code coverage tools with Travis, and created custom Docker containers to speed up testing execution.",
                 "Was responsible for development scheduling and product delivery."
-            ]
-        },
-        {
-            "company": "Crypsis Technologies",
-            "position": "Ruby on Rails Developer",
-            "website": "http://devathon.com/",
-            "startDate": "2011-01-01",
-            "endDate": "2013-12-31",
-            "summary": "Hyderabad, India",
-            "highlights": [
-                "Work on various small to large scale websites using Ruby on Rails and jQuery.",
-                "Was handling small team of developer for various projects."
-            ]
-        },
-        {
-            "company": "Verizon Data Services India",
-            "position": "Software Developer",
-            "website": "",
-            "startDate": "2009-08-01",
-            "endDate": "2010-10-31",
-            "summary": "Hyderabad, India",
-            "highlights": [
-                "Work on ESAP GUI.",
-                "Enabling Fancy features over the Telecom services."
             ]
         }
     ],
