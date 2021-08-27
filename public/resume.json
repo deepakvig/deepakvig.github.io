@@ -4,7 +4,7 @@
         "label": "Software Engineer",
         "picture": "https://s.gravatar.com/avatar/f7d05df1dfae2262f0afeabc96c67a78?s=80",
         "email": "deepakvig@gmail.com",
-        "phone": "+919949909440",
+        "phone": "+17786819440",
         "website": "https://deepakvig.github.io",
         "summary": "Conscientious, results-driven, articulate and analytical software engineer; primarily focusing on frontend and backend development. Strong in software design and agile team management.\nExcellent written and verbal communication skills. Interested in challenging technical roles related to development of web applications.",
         "location": {
@@ -18,7 +18,7 @@
             {
                 "network": "Phone",
                 "username": "",
-                "url": "skype:+919949909440"
+                "url": "skype:+17786819440"
             },
             {
                 "network": "Email",
@@ -39,11 +39,24 @@
     },
     "work": [
         {
+            "company": "Distilit Ltd",
+            "position": "Senior Ruby on Rails/Javascript/DevOps Developer",
+            "website": "",
+            "startDate": "2017-01-01",
+            "endDate": "Present",
+            "summary": "London, UK",
+            "highlights": [
+                "Involved in end-to-end development of the product, working in Ruby on Rails and ActiveAdmin and RESTful API, with MySQL database systems.",
+                "Worked on setting up CICD and AWS setup for auto-deployment.",
+                "Was responsible for development scheduling and delivery."
+            ]
+        },
+        {
             "company": "Codecrux Web Technologies Pvt Ltd",
             "position": "Ruby on Rails/Javascript/DevOps Developer",
             "website": "",
             "startDate": "2014-01-01",
-            "endDate": "Present",
+            "endDate": "2017-01-01",
             "summary": "Hyderabad, India",
             "highlights": [
                 "Involved in end-to-end development of a new product from the ground up, working in Ruby on Rails and React.js frontend and RESTful API, with MySQL database systems.",
